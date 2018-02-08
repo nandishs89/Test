@@ -1,0 +1,7 @@
+{
+  "Name": "Admin",
+  "FriendlyName": "Admin",
+  "Type": "Admin",
+  "IsActive": true,
+  "Enabled": true
+}
